@@ -1,1 +1,1 @@
-<h1><a href="http://ken59760.github.io/lab/lab1">Lab #1<a><h1>
+<h1><a href="http://ken59760.github.io/lab1">Lab #1<a><h1>
